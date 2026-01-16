@@ -1,5 +1,7 @@
 # Windows 下使用 Cursor Agent，并让 Goose 通过它运行（WSL 方案）
 
+<img width="755" height="733" alt="ecf3d4864969c5099a94378ea6740b9d" src="https://github.com/user-attachments/assets/7ea33b85-9442-4f2d-b0ec-89642e7494e2" />
+
 ## 适用场景
 
 - 你在 Windows 上使用 Goose
